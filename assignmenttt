@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />gbhb
+    .0b
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>bobba Menu</title>
+    <link href="bobba .css" rel="stylesheet"/>
+  </head>
+  <body>
+    <div class="menu">
+      <main>
+        <h1>bobba shop</h1>
+        <p class="established">Est. 2020</p>
+        <hr>
+        <section>
+          <h2>bobba</h2>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSX1ru1Bh6ZUYfc7yXYZuKuakGaRHE9opwmsugPgZpB4w&s=10" alt="bobba icon"/>
+          <article class="item">
+            <p class="flavor">bobba milk tea</p><p class="price">6.50</p>
+          </article>
+          <article class="item">
+            <p class="flavor">cake pop </p><p class="price">5.75</p>
+          </article>
+          <article class="item">
+            <p class="flavor">brown Milk tea:</p><p class="price">6.50</p>
+          </article>
+          <article class="item">
+            <p class="flavor">matcha</p><p class="price">4.00</p>
+          </article>
+          <article class="item">
+            <p class="flavor">Smoothies and Slushes:</p><p class="price">3.50</p>
+          </article>
+        </section>
+        <section>
+          <h2>Desserts</h2>
+          <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFhNwGrmpre9oBfkrWWM77QqDbLntM_bmPmLQ7cPUing&s=10" alt="doughnut icon"/>
+          <article class="item">
+            <p class="dessert">Donut</p><p class="price">2.50</p>
+          </article>
+          <article class="item">
+            <p class="dessert">Cherry Pie</p><p class="price">2.75</p>
+          </article>
+          <article class="item">
+            <p class="dessert">Taiyaki: </p><p class="price">4.00</p>
+          </article>
+          <article class="item">
+            <p class="dessert">Bubble Waffles </p><p class="price">3.50</p>
+          </article>
+        </section>
+      </main>
+      <hr class="bottom-line">
+      <footer>
+        <p>
+          <a href="https://www.theflavorbender.com/bubble-milk-tea-panna-cotta-recipe/" target="_blank">Visit our website</a>
+        </p>
+        <p class="address">1555 bobba shop</p>
+      </footer>
+    </div>
+  </body>
+</html>
+
+
+
+
+
